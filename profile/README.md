@@ -1,12 +1,15 @@
-## Hi there 👋
+# 👋 Bienvenue sur MidOff-AI
 
-<!--
+Projet de fin d'études (PFE) — CDG Capital Middle Office
 
-**Here are some ideas to get you started:**
+## 🚀 Stack technique
+- **Frontend** : Next.js 15, TypeScript, Tailwind CSS
+- **Backend** : FastAPI (Python 3.10+)
+- **Authentification** : Keycloak (OpenID Connect)
+- **Orchestration** : Docker & Docker Compose
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🛠️ Fonctionnalités principales
+- Authentification SSO Keycloak (login, logout, gestion des rôles)
+- Dashboard interactif Middle/Back Office
+- Gestion des utilisateurs et des droits
+- API sécurisée et documentation Swagger
