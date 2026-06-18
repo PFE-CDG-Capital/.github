@@ -2,6 +2,13 @@
 
 Projet de fin d'études (PFE) — CDG Capital Middle Office
 
+<div>
+    <p>MidOffAI in LangGraph Studio</p>
+    <p align="center">
+        <img src="MidOffAI.png">
+    </p>
+</div>
+
 ## Stack technique
 - **Frontend** : Next.js 15, TypeScript, Tailwind CSS
 - **Backend** : FastAPI (Python 3.10+)
